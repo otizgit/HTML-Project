@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    margin: 20px 0 20px 20px;
+}
+
+.image-div {
+    width: 200px;
+}
+
+.image-div img {
+    width: 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.info {
+    margin-left: 20px;
+}
+.info h1 {
+    margin-bottom: 10px;
+}
+.info p {
+    margin-bottom: 10px;
+}
+
+section{
+    margin-top: 20px;
+}
+section h2 {
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+section ul {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.work {
+    margin-top: 20px;
+}
+
+.experience {
+    display: flex;
+    margin-bottom: 20px;
+}
+.date, .work-div {
+    margin-left: 25px;
+}
+
+.skills {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.skills p {
+    font-weight: 500;
+}
+.skills i {
+    color: gold;
+}
+
+.line {
+    margin-bottom: 10px;
+}
+
+.bottom {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bottom p {
+    margin-right: 20px;
+}

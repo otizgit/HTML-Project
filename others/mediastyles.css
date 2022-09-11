@@ -1,0 +1,15 @@
+video {
+    width: 600px;
+}
+div {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 600px;
+    margin-right: 50px;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+}
